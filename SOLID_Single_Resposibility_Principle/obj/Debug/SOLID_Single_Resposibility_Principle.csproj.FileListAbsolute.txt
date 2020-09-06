@@ -1,0 +1,6 @@
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/SOLID_Single_Resposibility_Principle/obj/Debug/SOLID_Single_Resposibility_Principle.csprojAssemblyReference.cache
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/SOLID_Single_Resposibility_Principle/obj/Debug/SOLID_Single_Resposibility_Principle.csproj.CoreCompileInputs.cache
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/SOLID_Single_Resposibility_Principle/bin/Debug/SOLID_Single_Resposibility_Principle.exe
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/SOLID_Single_Resposibility_Principle/bin/Debug/SOLID_Single_Resposibility_Principle.pdb
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/SOLID_Single_Resposibility_Principle/obj/Debug/SOLID_Single_Resposibility_Principle.exe
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/SOLID_Single_Resposibility_Principle/obj/Debug/SOLID_Single_Resposibility_Principle.pdb
