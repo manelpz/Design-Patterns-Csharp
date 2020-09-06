@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{089DEA4B-EACC-45F9-916A-E630776B7F56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOLID_Single_Resposibility_Principle/Program.cs">
+    <Files>
+      <File FileName="SOLID_Single_Resposibility_Principle/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLID_Single_Resposibility_Principle 2" expanded="True">
+            <Node name="SOLID_Single_Resposibility_Principle" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SOLID__Single__Resposibility__Principle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
