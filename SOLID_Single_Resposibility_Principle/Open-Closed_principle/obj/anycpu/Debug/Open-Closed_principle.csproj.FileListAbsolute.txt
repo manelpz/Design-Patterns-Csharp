@@ -1,0 +1,5 @@
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/Open-Closed_principle/bin/Debug/Open-Closed_principle.exe
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/Open-Closed_principle/bin/Debug/Open-Closed_principle.pdb
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/Open-Closed_principle/obj/anycpu/Debug/Open-Closed_principle.csproj.CoreCompileInputs.cache
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/Open-Closed_principle/obj/anycpu/Debug/Open-Closed_principle.exe
+/Volumes/Sin título/GitHub/Design-Patterns-C-/SOLID_Single_Resposibility_Principle/Open-Closed_principle/obj/anycpu/Debug/Open-Closed_principle.pdb

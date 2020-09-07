@@ -17,7 +17,7 @@ namespace SOLID_Single_Resposibility_Principle
 
             var p = new Persistence();
             var filename = @"c:\temp\journal.txt";
-            p.SaveToFile(j, filename);
+            //p.SaveToFile(j, filename);
             //Process.Start(filename);
         }
     }
@@ -25,7 +25,7 @@ namespace SOLID_Single_Resposibility_Principle
     // handles the responsibility of persisting objects
     public class Persistence
     {
-        public void SaveToFile(Journal journal, string filename, bool overwrite)
+        public void SaveToFile(Journal journal, string filename, bool overwrite = false)
         {
             if (overwrite || !File.Exists(filename))
                 File.WriteAllText(filename, journal.ToString());

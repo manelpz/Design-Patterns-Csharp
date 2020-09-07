@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Resposibility_Principle", "SOLID_Single_Resposibility_Principle\Single_Resposibility_Principle.csproj", "{089DEA4B-EACC-45F9-916A-E630776B7F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open-Closed_principle", "Open-Closed_principle\Open-Closed_principle.csproj", "{9D1CA30D-D458-4876-86E3-B064302B42DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089DEA4B-EACC-45F9-916A-E630776B7F56}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{089DEA4B-EACC-45F9-916A-E630776B7F56}.Debug|anycpu.Build.0 = Debug|anycpu
+		{089DEA4B-EACC-45F9-916A-E630776B7F56}.Release|anycpu.ActiveCfg = Release|anycpu
+		{089DEA4B-EACC-45F9-916A-E630776B7F56}.Release|anycpu.Build.0 = Release|anycpu
+		{9D1CA30D-D458-4876-86E3-B064302B42DC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9D1CA30D-D458-4876-86E3-B064302B42DC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9D1CA30D-D458-4876-86E3-B064302B42DC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9D1CA30D-D458-4876-86E3-B064302B42DC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
