@@ -53,11 +53,7 @@ namespace AbstractFactory
         }
     }
 
-    /// <summary>
-
     /// The 'ConcreteFactory2' class
-
-    /// </summary>
 
     class AmericaFactory : ContinentFactory
 
@@ -72,11 +68,7 @@ namespace AbstractFactory
         }
     }
 
-    /// <summary>
-
     /// The 'AbstractProductA' abstract class
-
-    /// </summary>
 
     abstract class Herbivore
 
