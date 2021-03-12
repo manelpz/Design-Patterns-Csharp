@@ -110,11 +110,7 @@ namespace AbstractFactory
     {
     }
 
-    /// <summary>
-
     /// The 'ProductB2' class
-
-    /// </summary>
 
     class Wolf : Carnivore
 
