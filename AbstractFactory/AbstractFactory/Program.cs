@@ -75,11 +75,7 @@ namespace AbstractFactory
     {
     }
 
-    /// <summary>
-
     /// The 'AbstractProductB' abstract class
-
-    /// </summary>
 
     abstract class Carnivore
 
@@ -87,11 +83,7 @@ namespace AbstractFactory
         public abstract void Eat(Herbivore h);
     }
 
-    /// <summary>
-
     /// The 'ProductA1' class
-
-    /// </summary>
 
     class Wildebeest : Herbivore
 
