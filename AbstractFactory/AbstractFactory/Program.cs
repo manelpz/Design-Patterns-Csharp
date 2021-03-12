@@ -124,11 +124,7 @@ namespace AbstractFactory
         }
     }
 
-    /// <summary>
-
     /// The 'Client' class 
-
-    /// </summary>
 
     class AnimalWorld
 
