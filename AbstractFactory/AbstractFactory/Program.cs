@@ -27,12 +27,7 @@ namespace AbstractFactory
         }
     }
 
-
-    /// <summary>
-
     /// The 'AbstractFactory' abstract class
-
-    /// </summary>
 
     abstract class ContinentFactory
 
@@ -43,11 +38,7 @@ namespace AbstractFactory
         
     }
 
-    /// <summary>
-
     /// The 'ConcreteFactory1' class
-
-    /// </summary>
 
     class AfricaFactory : ContinentFactory
 
