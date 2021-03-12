@@ -6,11 +6,7 @@ namespace AbstractFactory
     class MainApp
 
     {
-
         /// Entry point into console application.
-
-        /// </summary>
-
         public static void Main()
         {
             // Create and run the African animal world
