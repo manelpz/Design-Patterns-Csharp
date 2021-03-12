@@ -90,13 +90,8 @@ namespace AbstractFactory
     {
     }
 
-    /// <summary>
-
     /// The 'ProductB1' class
-
-    /// </summary>
-
-    class Lion : Carnivore
+  class Lion : Carnivore
 
     {
         public override void Eat(Herbivore h)
