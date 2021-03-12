@@ -1,0 +1,6 @@
+/Volumes/Home/GitHub/Design-Patterns-Csharp/AbstractFactory/AbstractFactory/bin/Debug/AbstractFactory.exe
+/Volumes/Home/GitHub/Design-Patterns-Csharp/AbstractFactory/AbstractFactory/bin/Debug/AbstractFactory.pdb
+/Volumes/Home/GitHub/Design-Patterns-Csharp/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.csprojAssemblyReference.cache
+/Volumes/Home/GitHub/Design-Patterns-Csharp/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.csproj.CoreCompileInputs.cache
+/Volumes/Home/GitHub/Design-Patterns-Csharp/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.exe
+/Volumes/Home/GitHub/Design-Patterns-Csharp/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.pdb
