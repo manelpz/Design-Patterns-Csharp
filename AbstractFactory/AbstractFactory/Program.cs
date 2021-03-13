@@ -139,7 +139,7 @@ namespace AbstractFactory
             _carnivore = factory.CreateCarnivore();
             //Console.WriteLine(_carnivore);
             _herbivore = factory.CreateHerbivore();
-            //Console.WriteLine(_herbivore);
+         
         }
 
         public void RunFoodChain()
