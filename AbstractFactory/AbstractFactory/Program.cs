@@ -6,7 +6,12 @@ namespace AbstractFactory
     class MainApp
 
     {
+        /// <summary>
+
         /// Entry point into console application.
+
+        /// </summary>
+
         public static void Main()
         {
             // Create and run the African animal world
@@ -24,21 +29,67 @@ namespace AbstractFactory
             // Wait for user input
 
             Console.ReadKey();
+
+
+
+
+
+
+                int unOps = 5;
+                int preIncrement;
+                int preDecrement;
+                int postIncrement;
+                int postDecrement;
+                int positive;
+                int negative;
+                bool temp;
+
+                preIncrement = ++unOps;
+                Console.WriteLine("pre-Increment: {0}", preIncrement);
+
+                preDecrement = --unOps;
+                Console.WriteLine("pre-Decrement: {0}", preDecrement);
+
+                postDecrement = unOps--;
+                Console.WriteLine("Post-Decrement: {0}", postDecrement);
+
+                postIncrement = unOps++;
+                Console.WriteLine("Post-Increment: {0}", postIncrement);
+
+                Console.WriteLine("Final Value of unOps is: {0}", unOps);
+
+                positive = +postIncrement;
+                Console.WriteLine("Positive: {0}", positive);
+
+                negative = -postIncrement;
+                Console.WriteLine("Negative: {0}", negative);
+
+                temp = false;
+                temp = !temp;
+                Console.WriteLine("Logical Not: {0}", temp);
+            
         }
     }
 
+
+    /// <summary>
+
     /// The 'AbstractFactory' abstract class
+
+    /// </summary>
 
     abstract class ContinentFactory
 
     {
-       public abstract Herbivore CreateHerbivore();
-       public abstract Carnivore CreateCarnivore();
-
-        
+        public abstract Herbivore CreateHerbivore();
+        public abstract Carnivore CreateCarnivore();
     }
 
+    /// <summary>
+
     /// The 'ConcreteFactory1' class
+
+    /// </summary>
 
     class AfricaFactory : ContinentFactory
 
@@ -53,7 +104,11 @@ namespace AbstractFactory
         }
     }
 
+    /// <summary>
+
     /// The 'ConcreteFactory2' class
+
+    /// </summary>
 
     class AmericaFactory : ContinentFactory
 
@@ -68,14 +123,22 @@ namespace AbstractFactory
         }
     }
 
+    /// <summary>
+
     /// The 'AbstractProductA' abstract class
+
+    /// </summary>
 
     abstract class Herbivore
 
     {
     }
 
+    /// <summary>
+
     /// The 'AbstractProductB' abstract class
+
+    /// </summary>
 
     abstract class Carnivore
 
@@ -83,15 +146,24 @@ namespace AbstractFactory
         public abstract void Eat(Herbivore h);
     }
 
+    /// <summary>
+
     /// The 'ProductA1' class
+
+    /// </summary>
 
     class Wildebeest : Herbivore
 
     {
     }
 
+    /// <summary>
+
     /// The 'ProductB1' class
-  class Lion : Carnivore
+
+    /// </summary>
+
+    class Lion : Carnivore
 
     {
         public override void Eat(Herbivore h)
@@ -103,14 +175,22 @@ namespace AbstractFactory
         }
     }
 
+    /// <summary>
+
     /// The 'ProductA2' class
+
+    /// </summary>
 
     class Bison : Herbivore
 
     {
     }
 
+    /// <summary>
+
     /// The 'ProductB2' class
+
+    /// </summary>
 
     class Wolf : Carnivore
 
@@ -124,7 +204,11 @@ namespace AbstractFactory
         }
     }
 
+    /// <summary>
+
     /// The 'Client' class 
+
+    /// </summary>
 
     class AnimalWorld
 
@@ -137,9 +221,7 @@ namespace AbstractFactory
         public AnimalWorld(ContinentFactory factory)
         {
             _carnivore = factory.CreateCarnivore();
-            //Console.WriteLine(_carnivore);
             _herbivore = factory.CreateHerbivore();
-         
         }
 
         public void RunFoodChain()
@@ -148,11 +230,12 @@ namespace AbstractFactory
         }
     }
 
- 
-        
- 
- 
-    
+
+
+
+
+
+
 
 
 }
