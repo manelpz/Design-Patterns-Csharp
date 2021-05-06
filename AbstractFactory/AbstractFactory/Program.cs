@@ -6,11 +6,11 @@ namespace AbstractFactory
     class MainApp
 
     {
-        /// <summary>
+        
 
         /// Entry point into console application.
 
-        /// </summary>
+       
 
         public static void Main()
         {
